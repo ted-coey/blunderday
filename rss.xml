@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>COEY Cast</title>
+    <link>https://coey.com/ai-channels/channels/blunderday</link>
+    <language>en-us</language>
+    <copyright>©2026 COEY</copyright>
+    <lastBuildDate>Sat, 10 Jan 2026 21:56:34 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 12:00:00 GMT</pubDate>
+
+<!-- Categories -->
+<itunes:category text="History"/>
+<itunes:category text="Comedy">
+  <itunes:category text="Comedy Commentary"/>
+</itunes:category>
+<itunes:category text="Society & Culture"/>
+
+    <generator>RSS Builder</generator>
+
+    <!-- Show description -->
+    <description>
+        Blunderday is a daily history podcast about the days humanity absolutely blew it. Starting in 1980 and moving forward, one regrettable date at a time. Each episode revisits a specific day in modern history and unpacks the bad ideas, terrible decisions, unchecked overconfidence, and “this seemed smart at the time” moments that turned an ordinary date into a full-scale historical faceplant. From political meltdowns and corporate self-destruction to pop culture disasters and plans fueled by ego, panic, or pure vibes, Blunderday delivers short, funny stories with sharp commentary and the unfair advantage of hindsight. No heroes. No inspirational speeches. Just proof that modern history is one long chain of “oh crap, what did we do?
+
+    <!-- iTunes / Apple Podcasts tags -->
+    <itunes:author>COEY</itunes:author>
+    <itunes:summary>
+      Blunderday is a daily history podcast about the days humanity absolutely blew it. Starting in 1980 and moving forward, one regrettable date at a time. Each episode revisits a specific day in modern history and unpacks the bad ideas, terrible decisions, unchecked overconfidence, and “this seemed smart at the time” moments that turned an ordinary date into a full-scale historical faceplant. From political meltdowns and corporate self-destruction to pop culture disasters and plans fueled by ego, panic, or pure vibes, Blunderday delivers short, funny stories with sharp commentary and the unfair advantage of hindsight. No heroes. No inspirational speeches. Just proof that modern history is one long chain of “oh crap, what did we do?
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/brand-assets/coey-cast-logo.jpg"/>
+    <itunes:owner>
+      <itunes:name>COEY</itunes:name>
+      <itunes:email>ted@coey.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Atom self-link -->
+    <atom:link href="https://raw.githubusercontent.com/ted-coey/blunderday/main/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Episodes will be inserted here as <item> blocks -->
+
+</channel>
+</rss>
