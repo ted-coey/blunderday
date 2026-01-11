@@ -41,14 +41,5 @@
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
-
-  <item>
-    <title>The Five Sentences That Helped Break Medicine</title>
-    <description><![CDATA[January 10, 1980 delivers three very different train wrecks. A five sentence letter in The New England Journal of Medicine claims addiction is rare in hospitalized patients treated with narcotics and gets wildly misused for decades as a free pass for opioid prescribing. The United States quietly kicks off a long, messy legacy by shipping weapons to Pakistan for Afghan fighters, turning Cold War strategy into a forever headache. Then the Boston Bruins give goalie Jim Stewart his first NHL start, and he gives up five goals in one brutal period, never to play in the league again. One day, three flavor profiles of regret.]]></description>
-    <pubDate>Sun, 11 Jan 2026 15:42:08 GMT</pubDate>
-    <enclosure url="https://coey-blunderday.s3.us-east-2.amazonaws.com/20260111103321634+-+five_sentence_blunder.mp3" length="5145192" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1768146128630</guid>
-    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260111103321634+-+five_sentence_blunder.jpg"/>
-  </item>
 </channel>
 </rss>
