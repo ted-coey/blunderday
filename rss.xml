@@ -8,7 +8,7 @@
     <link>https://coey.com/ai-channels/channels/blunderday</link>
     <language>en-us</language>
     <copyright>©2026 COEY</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 15:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 13:32:03 GMT</lastBuildDate>
     <pubDate>Sun, 11 Jan 2026 12:00:00 GMT</pubDate>
 
 <!-- Categories -->
@@ -41,5 +41,14 @@
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
+
+  <item>
+    <title>The Night Hartford’s Shiny New Arena Ate Its Own Roof</title>
+    <description><![CDATA[January 18 comes with receipts. First up is Hartford’s proud new civic center, where a flashy long span roof design met physics, snow load, and wishful thinking before collapsing in the middle of the night. Then Capital Airlines Flight 20 flies into winter icing and delayed anti ice procedures that turn a routine hop into a fatal crash. Finally, Washington, D.C. Mayor Marion Barry manages to get himself filmed smoking crack in a hotel room while the FBI rolls tape. Structural hubris, cockpit overconfidence, and political self destruction all collide under the same date.]]></description>
+    <pubDate>Sun, 18 Jan 2026 13:32:03 GMT</pubDate>
+    <enclosure url="https://coey-blunderday.s3.us-east-2.amazonaws.com/20260118080533352+-+hartford_roof_fail.mp3" length="4863240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768743123713</guid>
+    <itunes:image href="https://coey-blunderday.s3.us-east-2.amazonaws.com/Image+20260118080533352+-+hartford_roof_fail.jpg"/>
+  </item>
 </channel>
 </rss>
